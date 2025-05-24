@@ -9,6 +9,7 @@
 
 # 图标点选yolo+resnet
 
+视频讲解地址：
 ## 1.分析
 
 <img src="assets/image-20250525063808016.png" alt="image-20250525063808016" style="zoom:200%;" />
